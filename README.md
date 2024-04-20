@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naitik Prajapati</h1>
-<h3 align="center">A passionate web developer and competitive programmer from India</h3>
+<h3 align="center">A Data Science Enthusiast and competitive programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naitik-554&label=Profile%20views&color=0e75b6&style=flat" alt="naitik-554" /> </p>
 
