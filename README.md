@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="[https://twitter.com/naitik554](https://twitter.com/Naitik554)" target="_blank"><img src="https://img.shields.io/twitter/follow/naitik554?logo=twitter&style=for-the-badge" alt="naitik554" /></a> </p>
 
-- 🔭 I’m currently working on [Blog On](Soon)
-
-- 🌱 I’m currently learning **Backend Web Development**
+- 🌱 I’m currently exploring the world of **Data Science**
 
 - 💬 Ask me about **ReactJS, Tailwind**
 
