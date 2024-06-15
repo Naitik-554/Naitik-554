@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently exploring the world of **Data Science**
 
-- 💬 Ask me about **ReactJS, Tailwind**
+- 💬 Ask me about **AI, ML, DL, ReactJS, Tailwind**
 
 - 📫 How to reach me **naitikp.official@gmail.com**
 
